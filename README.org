@@ -1,0 +1,10 @@
+* kekule-clj
+
+Kekule widget for common-lisp-jupyter
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/yitzchak/kekule-clj.git   |
+| commit  | 030d788  |
+| systems | kekule-clj |
+|---------+-------------------------------------------|
+
