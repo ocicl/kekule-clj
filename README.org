@@ -4,7 +4,7 @@ Kekule widget for common-lisp-jupyter
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/yitzchak/kekule-clj.git   |
-| commit  | 030d788  |
+| commit  | 2c56302  |
 | systems | kekule-clj |
 |---------+-------------------------------------------|
 
