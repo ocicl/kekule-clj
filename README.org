@@ -7,3 +7,4 @@ Kekule widget for common-lisp-jupyter
 | commit  | 2c56302                                        |
 | systems | kekule-clj                                     |
 |---------+------------------------------------------------|
+ 
